@@ -8,7 +8,7 @@ appnope @ file:///opt/concourse/worker/volumes/live/4f734db2-9ca8-4d8b-5b29-6ca1
 appscript @ file:///opt/concourse/worker/volumes/live/27fecc2e-9c75-4367-685d-08900606dee2/volume/appscript_1611427007141/work
 argh==0.26.2
 argon2-cffi @ file:///opt/concourse/worker/volumes/live/4afd07c8-7fc3-4a09-6326-d8c70269eb33/volume/argon2-cffi_1613037490059/work
-asgiref==3.3.4
+asgiref==3.7.10
 asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
 astroid @ file:///opt/concourse/worker/volumes/live/9de2becb-270f-43cf-6533-a7867d89298c/volume/astroid_1613500844589/work
 astropy @ file:///opt/concourse/worker/volumes/live/4d41c9c8-7ad9-470a-4924-a86cb5c771d4/volume/astropy_1606922930702/work
@@ -151,7 +151,7 @@ pandas==1.2.3
 pandocfilters @ file:///opt/concourse/worker/volumes/live/315ac9bb-93fd-4adc-6795-345692fcfaed/volume/pandocfilters_1605120446899/work
 parso==0.5.2
 partd==1.1.0
-# path @ file:///opt/concourse/worker/volumes/live/b3471744-1b64-48fc-4549-9699e6e73058/volume/path_1614022205520/work
+path @ file:///opt/concourse/worker/volumes/live/b3471744-1b64-48fc-4549-9699e6e73058/volume/path_1614022205520/work
 pathlib2 @ file:///opt/concourse/worker/volumes/live/8e57d73a-998f-4fa8-5295-7c064efc1e48/volume/pathlib2_1607024984248/work
 pathtools==0.1.2
 patsy==0.5.1
