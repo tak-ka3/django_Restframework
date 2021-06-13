@@ -177,24 +177,24 @@ pyerfa==1.7.2
 pyflakes==2.2.0
 Pygments==2.8.0
 pylint==2.7.1
-pyodbc==4.0.0-unsupported
-pyOpenSSL==20.0.1
-pyparsing==2.4.7
-pyrsistent==0.17.3
-PySocks==1.7.1
-pytest==6.2.2
-python-dateutil==2.8.1
+# pyodbc==4.0.0-unsupported
+# pyOpenSSL==20.0.1
+# pyparsing==2.4.7
+# pyrsistent==0.17.3
+# PySocks==1.7.1
+# pytest==6.2.2
+# python-dateutil==2.8.1
 python-jsonrpc-server==0.3.4
 python-language-server==0.31.7
-pytz==2021.1
-PyWavelets==1.1.1
-PyYAML==5.4.1
-pyzmq==20.0.0
-QDarkStyle==2.8.1
-QtAwesome==1.0.1
-qtconsole==5.0.2
-QtPy==1.9.0
-regex==2020.11.13
+# pytz==2021.1
+# PyWavelets==1.1.1
+# PyYAML==5.4.1
+# pyzmq==20.0.0
+# QDarkStyle==2.8.1
+# QtAwesome==1.0.1
+# qtconsole==5.0.2
+# QtPy==1.9.0
+# regex==2020.11.13
 requests==2.25.1
 rope==0.18.0
 Rtree==0.9.4
